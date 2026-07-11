@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f3e9">
+  <meta name="description" content="Vær, vannføring og siste fangster ved Gaula.">
+  <title>Gaula Fiskestatus</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <a class="brand" href="#top"><span class="mark">≈</span><span><strong>Gaula Fiskestatus</strong><small data-i18n="tagline">En enkel oversikt for dagene ved elva</small></span></a>
+    <div class="header-actions"><span class="updated"><i></i><span data-i18n="updated">Oppdatert for 8 min siden</span></span><div class="language" aria-label="Velg språk"><button class="active" data-lang="no">NO</button><button data-lang="en">EN</button></div></div>
+  </header>
+  <div class="notice" data-i18n="demo">DESIGNEKSEMPEL · Tallene som vises er eksempeldata</div>
+  <main class="page" id="top">
+    <section class="intro"><div><p class="eyebrow" data-i18n="today">I DAG VED GAULA</p><h1 data-i18n="weatherFlow">Vær og vannføring</h1></div><p class="date" id="today-date"></p></section>
+    <section class="status-grid">
+      <article class="card weather"><div class="card-top"><span class="label">Høgsæte</span><a class="source" href="https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-2491560/Norge/Tr%C3%B8ndelag/Melhus/H%C3%B8gs%C3%A6te" target="_blank" rel="noreferrer">YR ↗</a></div><div class="weather-main"><span class="weather-icon">☀</span><strong>18°</strong><div><b data-i18n="partly">Lettskyet</b><span data-i18n="feels">Føles som 17°</span></div></div><div class="weather-meta"><span><b>1,2 mm</b><em data-i18n="rain">nedbør</em></span><span><b>3 m/s</b><em data-i18n="wind">vind</em></span><span><b>22°</b><em data-i18n="maximum">maksimum</em></span></div></article>
+      <article class="card flow"><div class="card-top"><span class="label" data-i18n="gaulfoss">VANNFØRING VED GAULFOSS</span><a class="source" href="https://sildre.nve.no/station/122.9.0" target="_blank" rel="noreferrer">NVE ↗</a></div><div class="flow-main"><strong>92</strong><span>m³/s</span></div><div class="trend">↘ <b>4,6 m³/s</b> <span data-i18n="since">siden i går</span></div><div class="spark"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></article>
+    </section>
+    <section class="seven card"><div><p class="eyebrow" data-i18n="both">BEGGE VALD · SISTE 7 DAGER</p><h2 data-i18n="fishCaught">Fisk fanget</h2></div><div><strong>12</strong><span data-i18n="fish">fisk</span></div></section>
+    <section class="catches card"><div class="section-head"><div><p class="eyebrow">NEDRE LØBERG + MIDTLYNG / HØISETH</p><h2 data-i18n="latest">Siste fangster</h2></div><span data-i18n="latest10">Siste 10</span></div><div class="table" id="catch-table"></div></section>
+    <section class="info"><div><h3 data-i18n="about">Om tallene</h3><p data-i18n="aboutText">Fangstrapportene hentes fra Elveguiden for begge valdene. Været knyttes til Høgsæte, og vannføringen til NVEs målestasjon ved Gaulfoss.</p></div><nav class="links"><a href="https://elveguiden.no/no/laksebors/25" target="_blank" rel="noreferrer">Elveguiden ↗</a><a href="https://sildre.nve.no/station/122.9.0" target="_blank" rel="noreferrer">NVE Sildre ↗</a><a href="https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-2491560/Norge/Tr%C3%B8ndelag/Melhus/H%C3%B8gs%C3%A6te" target="_blank" rel="noreferrer">Yr Høgsæte ↗</a></nav></section>
+  </main>
+  <footer><span>Gaula Fiskestatus</span><span data-i18n="delayed">Data kan være forsinket · Kontroller alltid originalkilden</span></footer>
+</body>
+</html>
