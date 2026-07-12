@@ -1,1 +1,194 @@
-{"updatedAt":null,"nve":null,"lastSevenDays":null,"catches":[],"sources":{"nve":"waiting","elveguiden":"waiting"}}
+{
+  "updatedAt": "2026-07-12T00:52:09.459Z",
+  "nve": {
+    "station": "Gaulfoss",
+    "stationId": "122.9.0",
+    "current": 88.27132,
+    "observedAt": "2026-07-12T00:00:00Z",
+    "history": [
+      {
+        "time": "2026-07-11T18:15:00Z",
+        "value": 101.8814
+      },
+      {
+        "time": "2026-07-11T18:30:00Z",
+        "value": 101.1826
+      },
+      {
+        "time": "2026-07-11T18:45:00Z",
+        "value": 101.1826
+      },
+      {
+        "time": "2026-07-11T19:00:00Z",
+        "value": 100.423
+      },
+      {
+        "time": "2026-07-11T19:15:00Z",
+        "value": 100.2335
+      },
+      {
+        "time": "2026-07-11T19:30:00Z",
+        "value": 99.72889
+      },
+      {
+        "time": "2026-07-11T19:45:00Z",
+        "value": 99.47706
+      },
+      {
+        "time": "2026-07-11T20:00:00Z",
+        "value": 98.72333
+      },
+      {
+        "time": "2026-07-11T20:15:00Z",
+        "value": 98.2223
+      },
+      {
+        "time": "2026-07-11T20:30:00Z",
+        "value": 97.59768
+      },
+      {
+        "time": "2026-07-11T20:45:00Z",
+        "value": 96.91273
+      },
+      {
+        "time": "2026-07-11T21:00:00Z",
+        "value": 96.16805
+      },
+      {
+        "time": "2026-07-11T21:15:00Z",
+        "value": 95.92043
+      },
+      {
+        "time": "2026-07-11T21:30:00Z",
+        "value": 94.93284
+      },
+      {
+        "time": "2026-07-11T21:45:00Z",
+        "value": 94.56371
+      },
+      {
+        "time": "2026-07-11T22:00:00Z",
+        "value": 94.07258
+      },
+      {
+        "time": "2026-07-11T22:15:00Z",
+        "value": 92.97184
+      },
+      {
+        "time": "2026-07-11T22:30:00Z",
+        "value": 92.42374
+      },
+      {
+        "time": "2026-07-11T22:45:00Z",
+        "value": 91.69524
+      },
+      {
+        "time": "2026-07-11T23:00:00Z",
+        "value": 90.8487
+      },
+      {
+        "time": "2026-07-11T23:15:00Z",
+        "value": 90.4268
+      },
+      {
+        "time": "2026-07-11T23:30:00Z",
+        "value": 89.70563
+      },
+      {
+        "time": "2026-07-11T23:45:00Z",
+        "value": 89.1067
+      },
+      {
+        "time": "2026-07-12T00:00:00Z",
+        "value": 88.27132
+      }
+    ]
+  },
+  "lastSevenDays": 18,
+  "catches": [
+    {
+      "id": 724235,
+      "dateTime": "2026-07-10T07:10:00.000Z",
+      "species": "Laks",
+      "weight": 6,
+      "method": "Mark",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 724221,
+      "dateTime": "2026-07-10T06:40:00.000Z",
+      "species": "Laks",
+      "weight": 6.3,
+      "method": "Mark",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 724191,
+      "dateTime": "2026-07-10T06:10:00.000Z",
+      "species": "Laks",
+      "weight": 2.1,
+      "method": "Mark",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 724704,
+      "dateTime": "2026-07-09T19:56:00.000Z",
+      "species": "Laks",
+      "weight": 2.5,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 723098,
+      "dateTime": "2026-07-08T19:05:00.000Z",
+      "species": "Laks",
+      "weight": 2.4,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 723092,
+      "dateTime": "2026-07-08T18:42:00.000Z",
+      "species": "Sjøørret",
+      "weight": 1.5,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 723099,
+      "dateTime": "2026-07-08T16:55:00.000Z",
+      "species": "Laks",
+      "weight": 1.9,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 721635,
+      "dateTime": "2026-07-07T13:25:00.000Z",
+      "species": "Laks",
+      "weight": 3.7,
+      "method": "Spinner",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 721636,
+      "dateTime": "2026-07-07T11:24:00.000Z",
+      "species": "Laks",
+      "weight": 2.7,
+      "method": "Spinner",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 721707,
+      "dateTime": "2026-07-06T20:40:00.000Z",
+      "species": "Sjøørret",
+      "weight": 1.5,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    }
+  ],
+  "sources": {
+    "nve": "fulfilled",
+    "elveguiden": "fulfilled"
+  }
+}
