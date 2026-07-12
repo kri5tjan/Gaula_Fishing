@@ -1,27 +1,11 @@
 {
-  "updatedAt": "2026-07-12T00:52:09.459Z",
+  "updatedAt": "2026-07-12T01:26:03.409Z",
   "nve": {
     "station": "Gaulfoss",
     "stationId": "122.9.0",
-    "current": 88.27132,
-    "observedAt": "2026-07-12T00:00:00Z",
+    "current": 86.25769,
+    "observedAt": "2026-07-12T01:00:00Z",
     "history": [
-      {
-        "time": "2026-07-11T18:15:00Z",
-        "value": 101.8814
-      },
-      {
-        "time": "2026-07-11T18:30:00Z",
-        "value": 101.1826
-      },
-      {
-        "time": "2026-07-11T18:45:00Z",
-        "value": 101.1826
-      },
-      {
-        "time": "2026-07-11T19:00:00Z",
-        "value": 100.423
-      },
       {
         "time": "2026-07-11T19:15:00Z",
         "value": 100.2335
@@ -101,6 +85,22 @@
       {
         "time": "2026-07-12T00:00:00Z",
         "value": 88.27132
+      },
+      {
+        "time": "2026-07-12T00:15:00Z",
+        "value": 87.67686
+      },
+      {
+        "time": "2026-07-12T00:30:00Z",
+        "value": 87.14342
+      },
+      {
+        "time": "2026-07-12T00:45:00Z",
+        "value": 86.31662
+      },
+      {
+        "time": "2026-07-12T01:00:00Z",
+        "value": 86.25769
       }
     ]
   },
@@ -108,6 +108,7 @@
   "catches": [
     {
       "id": 724235,
+      "date": "2026-07-10",
       "dateTime": "2026-07-10T07:10:00.000Z",
       "species": "Laks",
       "weight": 6,
@@ -116,6 +117,7 @@
     },
     {
       "id": 724221,
+      "date": "2026-07-10",
       "dateTime": "2026-07-10T06:40:00.000Z",
       "species": "Laks",
       "weight": 6.3,
@@ -124,6 +126,7 @@
     },
     {
       "id": 724191,
+      "date": "2026-07-10",
       "dateTime": "2026-07-10T06:10:00.000Z",
       "species": "Laks",
       "weight": 2.1,
@@ -132,6 +135,7 @@
     },
     {
       "id": 724704,
+      "date": "2026-07-09",
       "dateTime": "2026-07-09T19:56:00.000Z",
       "species": "Laks",
       "weight": 2.5,
@@ -140,6 +144,7 @@
     },
     {
       "id": 723098,
+      "date": "2026-07-08",
       "dateTime": "2026-07-08T19:05:00.000Z",
       "species": "Laks",
       "weight": 2.4,
@@ -148,6 +153,7 @@
     },
     {
       "id": 723092,
+      "date": "2026-07-08",
       "dateTime": "2026-07-08T18:42:00.000Z",
       "species": "Sjøørret",
       "weight": 1.5,
@@ -156,6 +162,7 @@
     },
     {
       "id": 723099,
+      "date": "2026-07-08",
       "dateTime": "2026-07-08T16:55:00.000Z",
       "species": "Laks",
       "weight": 1.9,
@@ -164,6 +171,7 @@
     },
     {
       "id": 721635,
+      "date": "2026-07-07",
       "dateTime": "2026-07-07T13:25:00.000Z",
       "species": "Laks",
       "weight": 3.7,
@@ -172,6 +180,7 @@
     },
     {
       "id": 721636,
+      "date": "2026-07-07",
       "dateTime": "2026-07-07T11:24:00.000Z",
       "species": "Laks",
       "weight": 2.7,
@@ -180,6 +189,7 @@
     },
     {
       "id": 721707,
+      "date": "2026-07-06",
       "dateTime": "2026-07-06T20:40:00.000Z",
       "species": "Sjøørret",
       "weight": 1.5,
@@ -187,6 +197,16 @@
       "beat": "Nedre Løberg, Lundamo"
     }
   ],
+  "nearby": {
+    "downstream": {
+      "count": 0,
+      "averageWeight": null
+    },
+    "upstream": {
+      "count": 0,
+      "averageWeight": null
+    }
+  },
   "sources": {
     "nve": "fulfilled",
     "elveguiden": "fulfilled"
