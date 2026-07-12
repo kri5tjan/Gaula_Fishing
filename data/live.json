@@ -1,27 +1,11 @@
 {
-  "updatedAt": "2026-07-12T17:43:19.750Z",
+  "updatedAt": "2026-07-12T18:39:57.391Z",
   "nve": {
     "station": "Gaulfoss",
     "stationId": "122.9.0",
-    "current": 61.59678,
-    "observedAt": "2026-07-12T17:00:00Z",
+    "current": 61.09356,
+    "observedAt": "2026-07-12T18:00:00Z",
     "history": [
-      {
-        "time": "2026-07-12T11:15:00Z",
-        "value": 68.73543
-      },
-      {
-        "time": "2026-07-12T11:30:00Z",
-        "value": 68.20599
-      },
-      {
-        "time": "2026-07-12T11:45:00Z",
-        "value": 67.78381
-      },
-      {
-        "time": "2026-07-12T12:00:00Z",
-        "value": 67.67845
-      },
       {
         "time": "2026-07-12T12:15:00Z",
         "value": 67.88924
@@ -101,12 +85,28 @@
       {
         "time": "2026-07-12T17:00:00Z",
         "value": 61.59678
+      },
+      {
+        "time": "2026-07-12T17:15:00Z",
+        "value": 62.00072
+      },
+      {
+        "time": "2026-07-12T17:30:00Z",
+        "value": 61.54637
+      },
+      {
+        "time": "2026-07-12T17:45:00Z",
+        "value": 61.39526
+      },
+      {
+        "time": "2026-07-12T18:00:00Z",
+        "value": 61.09356
       }
     ]
   },
   "primary7d": {
-    "count": 13,
-    "averageWeight": 2.7461538461538457
+    "count": 12,
+    "averageWeight": 2.8416666666666663
   },
   "catches": [
     {
@@ -202,8 +202,8 @@
   ],
   "nearby": {
     "downstream": {
-      "count": 4,
-      "averageWeight": 1.225
+      "count": 3,
+      "averageWeight": 1
     },
     "upstream": {
       "count": 0,
