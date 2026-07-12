@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T10:36:45.175Z",
+  "updatedAt": "2026-07-12T11:44:28.399Z",
   "nve": {
     "station": "Gaulfoss",
     "stationId": "122.9.0",
@@ -105,8 +105,8 @@
     ]
   },
   "primary7d": {
-    "count": 16,
-    "averageWeight": 2.53125
+    "count": 17,
+    "averageWeight": 2.476470588235294
   },
   "catches": [
     {
@@ -173,6 +173,15 @@
       "beat": "Nedre Løberg, Lundamo"
     },
     {
+      "id": 726088,
+      "date": "2026-07-08",
+      "dateTime": "2026-07-08T12:10:00.000Z",
+      "species": "Sjøørret",
+      "weight": 1.6,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
       "id": 721635,
       "date": "2026-07-07",
       "dateTime": "2026-07-07T13:25:00.000Z",
@@ -188,15 +197,6 @@
       "species": "Laks",
       "weight": 2.7,
       "method": "Spinner",
-      "beat": "Nedre Løberg, Lundamo"
-    },
-    {
-      "id": 721707,
-      "date": "2026-07-06",
-      "dateTime": "2026-07-06T20:40:00.000Z",
-      "species": "Sjøørret",
-      "weight": 1.5,
-      "method": "Flue",
       "beat": "Nedre Løberg, Lundamo"
     }
   ],
