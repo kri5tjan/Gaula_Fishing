@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:26:03.409Z",
+  "updatedAt": "2026-07-12T01:48:33.847Z",
   "nve": {
     "station": "Gaulfoss",
     "stationId": "122.9.0",
@@ -104,7 +104,10 @@
       }
     ]
   },
-  "lastSevenDays": 18,
+  "primary7d": {
+    "count": 18,
+    "averageWeight": 2.5
+  },
   "catches": [
     {
       "id": 724235,
@@ -199,12 +202,12 @@
   ],
   "nearby": {
     "downstream": {
-      "count": 0,
-      "averageWeight": null
+      "count": 1,
+      "averageWeight": 1.9
     },
     "upstream": {
-      "count": 0,
-      "averageWeight": null
+      "count": 1,
+      "averageWeight": 2.1
     }
   },
   "sources": {
