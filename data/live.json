@@ -1,43 +1,11 @@
 {
-  "updatedAt": "2026-07-14T10:17:40.772Z",
+  "updatedAt": "2026-07-14T11:55:28.051Z",
   "nve": {
     "station": "Gaulfoss",
     "stationId": "122.9.0",
-    "current": 31.32457,
-    "observedAt": "2026-07-14T09:00:00Z",
+    "current": 30.58373,
+    "observedAt": "2026-07-14T11:00:00Z",
     "history": [
-      {
-        "time": "2026-07-14T03:15:00Z",
-        "value": 33.25848
-      },
-      {
-        "time": "2026-07-14T03:30:00Z",
-        "value": 33.03223
-      },
-      {
-        "time": "2026-07-14T03:45:00Z",
-        "value": 33.25848
-      },
-      {
-        "time": "2026-07-14T04:00:00Z",
-        "value": 33.19672
-      },
-      {
-        "time": "2026-07-14T04:15:00Z",
-        "value": 33.29969
-      },
-      {
-        "time": "2026-07-14T04:30:00Z",
-        "value": 33.05277
-      },
-      {
-        "time": "2026-07-14T04:45:00Z",
-        "value": 32.86806
-      },
-      {
-        "time": "2026-07-14T05:00:00Z",
-        "value": 32.58155
-      },
       {
         "time": "2026-07-14T05:15:00Z",
         "value": 32.64286
@@ -101,14 +69,64 @@
       {
         "time": "2026-07-14T09:00:00Z",
         "value": 31.32457
+      },
+      {
+        "time": "2026-07-14T09:15:00Z",
+        "value": 31.28435
+      },
+      {
+        "time": "2026-07-14T09:30:00Z",
+        "value": 31.04343
+      },
+      {
+        "time": "2026-07-14T09:45:00Z",
+        "value": 31.00335
+      },
+      {
+        "time": "2026-07-14T10:00:00Z",
+        "value": 30.90324
+      },
+      {
+        "time": "2026-07-14T10:15:00Z",
+        "value": 30.86323
+      },
+      {
+        "time": "2026-07-14T10:30:00Z",
+        "value": 30.76329
+      },
+      {
+        "time": "2026-07-14T10:45:00Z",
+        "value": 30.66348
+      },
+      {
+        "time": "2026-07-14T11:00:00Z",
+        "value": 30.58373
       }
     ]
   },
   "primary7d": {
-    "count": 10,
-    "averageWeight": 3.0699999999999994
+    "count": 11,
+    "averageWeight": 2.772727272727273
   },
   "catches": [
+    {
+      "id": 727681,
+      "date": "2026-07-13",
+      "dateTime": "2026-07-13T18:40:00.000Z",
+      "species": "Sjøørret",
+      "weight": 1.5,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
+    {
+      "id": 727680,
+      "date": "2026-07-13",
+      "dateTime": "2026-07-13T18:30:00.000Z",
+      "species": "Sjøørret",
+      "weight": 1,
+      "method": "Flue",
+      "beat": "Nedre Løberg, Lundamo"
+    },
     {
       "id": 724235,
       "date": "2026-07-10",
@@ -179,24 +197,6 @@
       "species": "Sjøørret",
       "weight": 1.6,
       "method": "Flue",
-      "beat": "Nedre Løberg, Lundamo"
-    },
-    {
-      "id": 721635,
-      "date": "2026-07-07",
-      "dateTime": "2026-07-07T13:25:00.000Z",
-      "species": "Laks",
-      "weight": 3.7,
-      "method": "Spinner",
-      "beat": "Nedre Løberg, Lundamo"
-    },
-    {
-      "id": 721636,
-      "date": "2026-07-07",
-      "dateTime": "2026-07-07T11:24:00.000Z",
-      "species": "Laks",
-      "weight": 2.7,
-      "method": "Spinner",
       "beat": "Nedre Løberg, Lundamo"
     }
   ],
